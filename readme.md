@@ -31,7 +31,7 @@ This Script uses tooks from this installation package https://www.fosshub.com/MK
 -to run type:
 
 ```sh
-C:\Pathtowhereyouclonedthescript\> ./MKVRokuPlexChan8Fix.ps1 "d:\path to bulk of your videos\"  
+C:\Pathtowhereyouclonedthescript\> ./MKVRokuPlexChan8Fix.ps1 -FolderPath "d:\path to bulk of your videos\"  
 ```
 - any videos with the Channels: 8 in the meta data will be changed.  
 - Once the script is complete, any videos should now play the audio stream fine in Plex on the Roku
@@ -42,3 +42,4 @@ https://forums.plex.tv/discussion/204927/new-7-1-update-0-9-15-2-no-audio-playin
 
 
 
+x
